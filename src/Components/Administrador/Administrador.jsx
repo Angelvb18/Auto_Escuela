@@ -8,7 +8,7 @@ function Administrador() {
     const [action,setAction] = useState("Login");
     return (
       <div className="container">
-       
+        <text>Hola Mundo</text>
       </div>
     );
   }
